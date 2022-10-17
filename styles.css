@@ -1,0 +1,21 @@
+* {
+
+margin: 0;
+
+padding: 0;
+
+}
+
+#content {
+background: rgb(179, 99, 99);
+}
+.special {
+font-style: italic;
+color: blue;
+}
+
+p {
+
+font-size: 24px;
+
+}
